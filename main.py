@@ -25,6 +25,9 @@ def adore1_hello():
 
 def salman_hello():
     greetings.salman.hello()
+# Greeting for tyson.py
+def tyson_hello():
+    greetings.tyson.hello()
 
 def ben_hello():
     greetings.ben.hello()
@@ -32,7 +35,6 @@ def ben_hello():
 def main():
     print("Fall 2025 CSP 200 PR Yearbook")
     print("=============================")
-    
     lee_hello()
     ben_hello()
     cgarcia_hello()
@@ -47,6 +49,9 @@ def main():
 
     salman_hello()
 
+    print()
+    print()
+    tyson_hello()
 # don't touch this!
 if __name__ == "__main__":
     main()
