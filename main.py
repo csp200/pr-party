@@ -6,6 +6,10 @@ import greetings
 def lee_hello():
     greetings.lee.hello()
 
+# Greeting for tyson.py
+def tyson_hello():
+    greetings.tyson.hello()
+
 # add a call to your function in main, below the heading output: 
 def main():
     print("Fall 2025 CSP 200 PR Yearbook")
