@@ -6,6 +6,9 @@ import greetings
 def lee_hello():
     greetings.lee.hello()
 
+def salman_hello():
+    greetings.salman.hello()
+
 # add a call to your function in main, below the heading output: 
 def main():
     print("Fall 2025 CSP 200 PR Yearbook")
