@@ -14,7 +14,7 @@ def main():
     print("=============================")
     
     lee_hello()
-
+    logan_hello()
 # don't touch this!
 if __name__ == "__main__":
     main()
