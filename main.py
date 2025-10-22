@@ -16,6 +16,8 @@ def call_saswati_greeting():
 
 def logan_hello():
     greetings.logan.hello()
+def Jesus_hello():
+    greetings.jesusq.Jesus_hello()
 # add a call to your function in main, below the heading output: 
 def main():
     print("Fall 2025 CSP 200 PR Yearbook")
@@ -30,6 +32,7 @@ def main():
     call_saswati_greeting()
 
     
+    Jesus_hello()
 
 # don't touch this!
 if __name__ == "__main__":
