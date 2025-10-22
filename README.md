@@ -1,4 +1,4 @@
-# CSP 200 Pull Request Party
+# CSP 200 Pull Request Party!
 
 For this in-class activity, you will do the following:
 
