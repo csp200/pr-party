@@ -1,2 +1,2 @@
 def Jesus_hello():
-    Greetings.Jesus.hello()
+       print('Jesus was here')
