@@ -5,4 +5,6 @@ def main():
     print("=============================")
 
     mcardenas_hello()
-    
+
+if __name__ == "__main__":
+    main()    
