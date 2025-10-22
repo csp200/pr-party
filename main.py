@@ -15,6 +15,7 @@ def main():
     print("=============================")
     
     lee_hello()
+    jdoe_hello()
 
 # don't touch this!
 if __name__ == "__main__":
