@@ -35,9 +35,7 @@ def main():
     cgarcia_hello()
     adrian_hello()
     logan_hello()
-    jdoe_hello()
 
-    call_suproteek_greeting()
     call_saswati_greeting()
 
     
