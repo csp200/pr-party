@@ -14,6 +14,7 @@ def main():
     print("=============================")
 
     # add function call here
+    jgarcia_hello()
 
 # don't touch this!
 if __name__ == "__main__":
