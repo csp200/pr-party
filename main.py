@@ -29,7 +29,12 @@ def adore1_hello():
 
 def salman_hello():
     greetings.salman.hello()
+# Greeting for tyson.py
+def tyson_hello():
+    greetings.tyson.hello()
 
+def ben_hello():
+    greetings.ben.hello()
 # add a call to your function in main, below the heading output: 
 def main():
     print("Fall 2025 CSP 200 PR Yearbook")
@@ -39,12 +44,11 @@ def main():
     jgarcia_hello()
     
     lee_hello()
+    ben_hello()
     cgarcia_hello()
     adrian_hello()
     logan_hello()
-    jdoe_hello()
 
-    call_suproteek_greeting()
     call_saswati_greeting()
 
     
@@ -53,6 +57,9 @@ def main():
 
     salman_hello()
 
+    print()
+    print()
+    tyson_hello()
 # don't touch this!
 if __name__ == "__main__":
     main()
