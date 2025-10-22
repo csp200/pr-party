@@ -9,7 +9,7 @@ def lee_hello():
 # add a call to your function in main, below the heading output: 
 def main():
     print("Fall 2025 CSP 200 PR Yearbook")
-    print("=============================")
+    print("Help Me I am trapped in this spaghetti code")
     
     lee_hello()
 
