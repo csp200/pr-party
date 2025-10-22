@@ -49,6 +49,10 @@ def main():
 
     salman_hello()
 
+    print()
+    print("=============================")
+    print()
+    tyson_hello()
 # don't touch this!
 if __name__ == "__main__":
     main()
