@@ -18,6 +18,9 @@ def logan_hello():
     greetings.logan.hello()
 def Jesus_hello():
     greetings.jesusq.Jesus_hello()
+def adore1_hello():
+    greetings.adore1.adore1_hello()
+
 # add a call to your function in main, below the heading output: 
 def main():
     print("Fall 2025 CSP 200 PR Yearbook")
@@ -33,6 +36,7 @@ def main():
 
     
     Jesus_hello()
+    adore1_hello()
 
 # don't touch this!
 if __name__ == "__main__":
