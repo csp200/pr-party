@@ -5,9 +5,10 @@ import greetings
 # define a function that calls your library definition below:
 def lee_hello():
     greetings.lee.hello()
-
 def cgarcia_hello():
     greetings.cgarcia4.my_name()
+def jdoe_hello():
+    greetings.jdoe.jdoe_hello()
 
 # add a call to your function in main, below the heading output: 
 def main():
@@ -16,6 +17,7 @@ def main():
     
     lee_hello()
     cgarcia_hello()
+    jdoe_hello()
 
 # don't touch this!
 if __name__ == "__main__":
