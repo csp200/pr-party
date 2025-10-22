@@ -1,10 +1,8 @@
 #!/usr/bin/env python3
  
 import greetings
+from greetings.saswati import greet_saswati
 
-# define a function that calls your library definition below:
-def lee_hello():
-    greetings.lee.hello()
 
 def adore1_hello():
     greetings.adore1.adore1_hello()
