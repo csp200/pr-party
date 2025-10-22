@@ -5,6 +5,10 @@ from greetings.saswati import greet_saswati
 
 
 # define a function that calls your library definition below:
+def jgarcia_hello():
+    greetings.jgarcia.hello()
+
+# define a function here
 def lee_hello():
     greetings.lee.hello()
 def cgarcia_hello():
@@ -35,6 +39,10 @@ def ben_hello():
 def main():
     print("Fall 2025 CSP 200 PR Yearbook")
     print("=============================")
+
+    # add function call here
+    jgarcia_hello()
+    
     lee_hello()
     ben_hello()
     cgarcia_hello()
