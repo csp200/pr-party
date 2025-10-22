@@ -16,6 +16,8 @@ def main():
     
     lee_hello()
 
+    salman_hello()
+
 # don't touch this!
 if __name__ == "__main__":
     main()
