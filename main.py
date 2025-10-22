@@ -7,6 +7,8 @@ from greetings.saswati import greet_saswati
 # define a function that calls your library definition below:
 def lee_hello():
     greetings.lee.hello()
+def cgarcia_hello():
+    greetings.cgarcia4.my_name()
 def adrian_hello():
     greetings.adrian.hello()
     
@@ -30,6 +32,7 @@ def main():
     print("=============================")
     
     lee_hello()
+    cgarcia_hello()
     adrian_hello()
     logan_hello()
     jdoe_hello()
