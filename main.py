@@ -3,15 +3,17 @@
 import greetings
 
 # define a function that calls your library definition below:
-def lee_hello():
-    greetings.lee.hello()
+def jgarcia_hello():
+    greetings.jgarcia.hello()
+
+# define a function here
 
 # add a call to your function in main, below the heading output: 
 def main():
     print("Fall 2025 CSP 200 PR Yearbook")
     print("=============================")
-    
-    lee_hello()
+
+    # add function call here
 
 # don't touch this!
 if __name__ == "__main__":

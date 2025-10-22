@@ -1,2 +1,2 @@
-def jgarcia_hello():
+def hello():
     print('Juan sez hello fr')
