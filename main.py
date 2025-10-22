@@ -1,18 +1,16 @@
 #!/usr/bin/env python3
  
 import greetings
-from greetings.suproteek import greet_suproteek
+from greetings.saswati import greet_saswati
+
 
 # define a function that calls your library definition below:
 def lee_hello():
     greetings.lee.hello()
     
-def call_suproteek_greeting():
-    greet_suproteek()
+def call_saswati_greeting():
+    greet_saswati()
 
-
-def jdoe_hello():
-    greetings.jdoe.jdoe_hello()
 
 def logan_hello():
     greetings.logan.hello()
@@ -26,7 +24,9 @@ def main():
     jdoe_hello()
 
     call_suproteek_greeting()
+    call_saswati_greeting()
 
+    
 
 # don't touch this!
 if __name__ == "__main__":
