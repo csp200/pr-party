@@ -5,7 +5,8 @@ import greetings
 # define a function that calls your library definition below:
 def lee_hello():
     greetings.lee.hello()
-
+def adrian_hello():
+    greetings.adrian.hello()
 # add a call to your function in main, below the heading output: 
 def main():
     print("Fall 2025 CSP 200 PR Yearbook")
