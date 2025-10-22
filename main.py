@@ -14,12 +14,9 @@ def tyson_hello():
 def main():
     print("Fall 2025 CSP 200 PR Yearbook")
     print("=============================")
-    
     lee_hello()
-
     print()
     print("=============================")
-    print()
     tyson_hello()
 # don't touch this!
 if __name__ == "__main__":
