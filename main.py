@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
  
 import greetings
+from greetings.suproteek import greet_suproteek
 
 # define a function that calls your library definition below:
 def Jesus_hello():
