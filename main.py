@@ -7,7 +7,7 @@ def lee_hello():
     greetings.lee.hello()
 
 def cgarcia_hello():
-    greetings.cgarcia4.hello()
+    greetings.cgarcia4.my_name()
 
 # add a call to your function in main, below the heading output: 
 def main():
