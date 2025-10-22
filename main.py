@@ -4,15 +4,16 @@ import greetings
 from greetings.saswati import greet_saswati
 
 
-# define a function that calls your library definition below:
-def Jesus_hello():
-    greetings.jesusq.Jesus_hello()
+def adore1_hello():
+    greetings.adore1.adore1_hello()
+
 # add a call to your function in main, below the heading output: 
 def main():
     print("Fall 2025 CSP 200 PR Yearbook")
     print("=============================")
     
-    Jesus_hello()
+    lee_hello()
+    adore1_hello()
 
 # don't touch this!
 if __name__ == "__main__":
