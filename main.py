@@ -25,6 +25,9 @@ def adore1_hello():
 
 def salman_hello():
     greetings.salman.hello()
+# Greeting for tyson.py
+def tyson_hello():
+    greetings.tyson.hello()
 
 # add a call to your function in main, below the heading output: 
 def main():
